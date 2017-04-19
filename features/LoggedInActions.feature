@@ -1,3 +1,4 @@
+@smoke
 Feature: Testing actions performed after logging in.
   
   Background:
